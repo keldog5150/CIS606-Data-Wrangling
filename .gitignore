@@ -1,0 +1,10 @@
+# Ignore large dataset files
+data/*.csv
+data/*.xlsx
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Word temporary files
+*.tmp
